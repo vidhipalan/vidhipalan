@@ -2,7 +2,7 @@
 
 🎓 Graduate Student @ **Stevens Institute of Technology**  
 💼 Former Site Reliability Engineer | Current DevOps TA & IT Consultant  
-🌐 [LinkedIn](http://www.linkedin.com/in/vidhi-palan/) • [GitHub](http://github.com/vidhipalan) • [Email](mailto:vidhipalan4@gmail.com)
+🌐 [LinkedIn](http://www.linkedin.com/in/vidhi-palan/) • [GitHub](http://github.com/vidhipalan) • [Email](mailto:vidhipalan4@gmail.com) • [Portfolio](https://vidhipalan.my.canva.site/) • [Credly](https://www.credly.com/users/vidhi-palan)
 
 ---
 
