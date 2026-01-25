@@ -1,54 +1,63 @@
-# 👋 Hi there, I'm Vidhi Palan!
+# Hi, I'm Vidhi Palan 👋
 
-🎓 Graduate Student @ **Stevens Institute of Technology**  
-💼 Former Site Reliability Engineer | Current DevOps TA & IT Consultant  
-🌐 [LinkedIn](http://www.linkedin.com/in/vidhi-palan/) • [GitHub](http://github.com/vidhipalan) • [Email](mailto:vidhipalan4@gmail.com) • [Portfolio](https://vidhipalan.my.canva.site/) • [Credly](https://www.credly.com/users/vidhi-palan)
+Cloud DevOps / Site Reliability Engineer with 5 years of experience supporting large-scale production environments and automating infrastructure and deployments.
 
----
-
-## 🚀 About Me
-
-I'm a passionate DevOps engineer and computer science graduate student with over 4 years of experience automating data pipelines, optimizing infrastructure, and ensuring production reliability. Currently diving deeper into **cloud-native development, container orchestration**, and **CI/CD pipelines** while supporting students and faculty at Stevens.
+📍 New York, NY (Open to relocate)  
+🔗 LinkedIn: https://www.linkedin.com/in/vidhi-palan/  
+📫 Email: vidhipalan4@gmail.com  
+🧾 RHCSA Verify: https://rhtapps.redhat.com/verify?certId=240-016-204  
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
+- Build and operate production-grade cloud infrastructure (AWS/GCP), focused on reliability, automation, and observability  
+- Automate provisioning and change management using Terraform + CI/CD (Jenkins/GitLab)  
+- Improve incident response through monitoring/alerting, RCA, runbooks, and repeatable remediation  
 
-**Languages:** Python, SQL  
-**DevOps:** Jenkins, Docker, Kubernetes, Terraform, Ansible  
-**Monitoring:** Nagios, Splunk, Prometheus  
-**Cloud:** AWS (EC2, S3, Lambda, CloudFormation), GCP (BigQuery, Dataflow), Azure  
-**Tools:** Git, Jira, Nginx, VPN, ELB, WAF  
-**OS:** Linux (RHEL), Windows  
-
----
-
-## 📌 Featured Projects
-
-### 🔧 Automation & Containerization  
-- Automated data deployment across AWS EC2 with Python  
-- Configured Splunk for data monitoring and Prometheus for system observability  
-- Improved data processing speed by 75%
-
-### 🛍️ E-commerce Review Sentiment Analysis  
-- Built a Chrome extension with FastAPI backend for web scraping  
-- Used BeautifulSoup + TextBlob to extract and analyze review sentiments  
+**Highlights**
+- Supported **1500+ customer production environments** across **1000+ cloud instances**
+- Reduced manual operational effort by **~90%** through automation and standardized pipelines/runbooks
+- Reduced mean time to resolution by **~30%** by improving alerting, dashboards, and incident workflows
+- Built automation pipelines that processed **6500+ files** using cron, logging, and lock-file safety controls
 
 ---
 
-## 📜 Certifications
-
-- 🧰 **Red Hat Certified System Administrator (RHCSA - RHEL 9)**  
-- ☁️ **AWS Certified Cloud Practitioner**
-
----
-
-## 📫 Get in Touch
-
-- Email: [vidhipalan4@gmail.com](mailto:vidhipalan4@gmail.com)  
-- LinkedIn: [linkedin.com/in/vidhi-palan](http://www.linkedin.com/in/vidhi-palan/)  
-- GitHub: [github.com/vidhipalan](http://github.com/vidhipalan)
+## Tech Stack (core)
+- **Cloud:** AWS (EC2, IAM, S3, ALB/ELB, Auto Scaling, Security Groups), GCP (Compute Engine, IAM, Cloud Storage, Monitoring)
+- **IaC / Config:** Terraform, Puppet
+- **CI/CD:** Jenkins, GitLab CI/CD
+- **Containers:** Docker, Kubernetes (EKS)
+- **Observability:** Splunk (SPL, dashboards, alerts), Nagios
+- **OS / Scripting:** Linux (Ubuntu, RHEL), Python, Bash, cron, SSH
+- **DB / Storage:** MariaDB/MySQL, PostgreSQL, Synology NAS, SMB/NFS
+- **Collaboration:** Git/GitHub, Jira, Slack
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my repositories or connect with me on LinkedIn.*
+## Featured Projects
+### 1) Mental Health Tracker App
+Full-stack mobile app for mood tracking and secure clinician–patient communication.
+- Built role-based mobile experience using React Native (patients/clinicians)
+- Implemented Node.js/Express REST APIs with JWT auth and MongoDB persistence
+- Integrated real-time secure messaging with Rocket.Chat; containerized services using Docker/Docker Compose  
+🔗 GitHub: https://github.com/vidhipalan/CS555_Stevens-Team-4
+
+### 2) Health Management System on AWS EKS
+Cloud-native microservices deployment on AWS using Kubernetes.
+- Deployed services on AWS EKS using Kubernetes Deployments/Services and health checks
+- Built and pushed Docker images to Amazon ECR; validated inter-service communication
+- Integrated Amazon RDS (PostgreSQL) for persistence and tested end-to-end workflows  
+🔗 GitHub: https://github.com/vidhipalan/Health_Management_System_AWS_EKS
+
+---
+
+## Certifications
+- **RHCSA (Red Hat Certified System Administrator – RHEL 9)** (Verify: https://rhtapps.redhat.com/verify?certId=240-016-204)
+- **AWS Certified Cloud Practitioner**
+
+---
+
+## Get in touch
+If you’re hiring for **Cloud DevOps / Cloud Infrastructure / Platform / SRE** roles, feel free to reach out:
+- Email: vidhipalan4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vidhi-palan/
