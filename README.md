@@ -2,7 +2,7 @@
 
 Cloud DevOps / Site Reliability Engineer with 5 years of experience supporting large-scale production environments and automating infrastructure and deployments.
 
-📍 New York, NY (Open to relocate)  
+📍 New York, NY
 🔗 LinkedIn: https://www.linkedin.com/in/vidhi-palan/  
 📫 Email: vidhipalan4@gmail.com  
 🧾 RHCSA Verify: https://rhtapps.redhat.com/verify?certId=240-016-204  
